@@ -1,9 +1,14 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
-About this site
+Im a legend who likes tacos 
 
-```{r}
-1 + 1
-```
+
+
+
+
+
+
+
+
