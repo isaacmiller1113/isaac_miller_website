@@ -5,16 +5,28 @@ project:
 website:
   title: "isaac_miller_website"
   navbar:
+    title: "Isaac Miller"
+    logo: images/Logo maker project (1).png
+    logo-alt: "My Personal Logo"
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+  page-footer:
+    background: light
+    left: Copyright 2026, Isaac Miller
+    right: Howzit!
+
 
 format:
   html:
-    theme: cosmo
+    theme: 
+    - styles.scss
+    - yeti
     css: styles.css
     toc: true
+    page-layout: full
+    lightbox: true
 
 editor: visual
 
