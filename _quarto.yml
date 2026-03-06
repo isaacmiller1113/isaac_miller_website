@@ -8,10 +8,16 @@ website:
     title: "Isaac Miller"
     logo: images/Logo maker project (1).png
     logo-alt: "My Personal Logo"
-    left:
+    right:
       - href: index.qmd
         text: Home
       - about.qmd
+      - Projects.qmd
+      - resume_cv.qmd
+      - relevant_coursework.qmd
+      - text: "My Certifications"
+        menu:
+          - scuba.qmd
   page-footer:
     background: light
     left: Copyright 2026, Isaac Miller
